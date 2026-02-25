@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-25T19:10:23.355Z",
+  "model": "claude-opus-4-6",
+  "source": {
+    "url": "https://github.com/istio/istio.io",
+    "type": "github-hugo",
+    "github": {
+      "owner": "istio",
+      "repo": "istio.io",
+      "ref": "master",
+      "commitSha": "a9a1cde354b20cfd6e15e3c9cf5cea0643207208"
+    }
+  },
+  "pages": [
+    {
+      "path": "content/en/docs/ops/configuration/traffic-management/multicluster/index.md",
+      "title": "multicluster",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ops/configuration/traffic-management/multicluster/index.md"
+    },
+    {
+      "path": "content/en/docs/ops/configuration/traffic-management/network-topologies/index.md",
+      "title": "network topologies",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ops/configuration/traffic-management/network-topologies/index.md"
+    },
+    {
+      "path": "content/en/docs/ops/configuration/traffic-management/protocol-selection/index.md",
+      "title": "protocol selection",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ops/configuration/traffic-management/protocol-selection/index.md"
+    },
+    {
+      "path": "content/en/docs/ops/configuration/traffic-management/tls-configuration/index.md",
+      "title": "tls configuration",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ops/configuration/traffic-management/tls-configuration/index.md"
+    }
+  ],
+  "skill": {
+    "name": "istio-traffic-management",
+    "title": "Istio Traffic Management Configuration",
+    "category": "devops",
+    "files": [
+      "SKILL.md",
+      "references/multicluster.md",
+      "references/gateway-and-tls.md"
+    ]
+  },
+  "publisher": {
+    "login": "dev-user"
+  }
+}
