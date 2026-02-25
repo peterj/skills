@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-25T17:40:30.284Z",
+  "model": "claude-opus-4-6",
+  "source": {
+    "url": "https://github.com/argoproj/argo-cd",
+    "type": "github-repo",
+    "github": {
+      "owner": "argoproj",
+      "repo": "argo-cd",
+      "ref": "master",
+      "commitSha": "8c1a815b7832fdcdfff2f399439e2c158d9ae730"
+    }
+  },
+  "pages": [
+    {
+      "path": "docs/developer-guide/debugging-locally.md",
+      "title": "debugging locally",
+      "url": "https://github.com/argoproj/argo-cd/blob/master/docs/developer-guide/debugging-locally.md"
+    },
+    {
+      "path": "docs/developer-guide/debugging-remote-environment.md",
+      "title": "debugging remote environment",
+      "url": "https://github.com/argoproj/argo-cd/blob/master/docs/developer-guide/debugging-remote-environment.md"
+    }
+  ],
+  "skill": {
+    "name": "argocd-debugging",
+    "title": "Argo CD Debugging",
+    "category": "debugging",
+    "files": [
+      "SKILL.md",
+      "ide-configurations.md"
+    ]
+  },
+  "publisher": {
+    "login": "dev-user"
+  }
+}
