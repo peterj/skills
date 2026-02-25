@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-25T17:47:11.485Z",
+  "model": "claude-opus-4-6",
+  "source": {
+    "url": "https://github.com/argoproj/argo-cd",
+    "type": "github-repo",
+    "github": {
+      "owner": "argoproj",
+      "repo": "argo-cd",
+      "ref": "master",
+      "commitSha": "8c1a815b7832fdcdfff2f399439e2c158d9ae730"
+    }
+  },
+  "pages": [
+    {
+      "path": "docs/operator-manual/notifications/services/pagerduty.md",
+      "title": "pagerduty",
+      "url": "https://github.com/argoproj/argo-cd/blob/master/docs/operator-manual/notifications/services/pagerduty.md"
+    },
+    {
+      "path": "docs/operator-manual/notifications/services/pagerduty_v2.md",
+      "title": "pagerduty v2",
+      "url": "https://github.com/argoproj/argo-cd/blob/master/docs/operator-manual/notifications/services/pagerduty_v2.md"
+    }
+  ],
+  "skill": {
+    "name": "argocd-pagerduty-notifications",
+    "title": "Argo CD PagerDuty Notifications",
+    "category": "devops",
+    "files": [
+      "SKILL.md"
+    ]
+  },
+  "publisher": {
+    "login": "dev-user"
+  }
+}
