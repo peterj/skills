@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-25T05:24:01.913Z",
+  "model": "claude-opus-4-6",
+  "source": {
+    "url": "https://github.com/istio/istio.io",
+    "type": "github-hugo",
+    "github": {
+      "owner": "istio",
+      "repo": "istio.io",
+      "ref": "master"
+    }
+  },
+  "pages": [
+    {
+      "path": "content/en/docs/ops/common-problems/_index.md",
+      "title": "common problems",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ops/common-problems/_index.md"
+    },
+    {
+      "path": "content/en/docs/ops/common-problems/network-issues/index.md",
+      "title": "network issues",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ops/common-problems/network-issues/index.md"
+    },
+    {
+      "path": "content/en/docs/ops/common-problems/observability-issues/index.md",
+      "title": "observability issues",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ops/common-problems/observability-issues/index.md"
+    },
+    {
+      "path": "content/en/docs/ops/common-problems/security-issues/index.md",
+      "title": "security issues",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ops/common-problems/security-issues/index.md"
+    },
+    {
+      "path": "content/en/docs/ops/common-problems/upgrade-issues/index.md",
+      "title": "upgrade issues",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ops/common-problems/upgrade-issues/index.md"
+    }
+  ],
+  "skill": {
+    "name": "istio-troubleshooting",
+    "title": "Istio Troubleshooting Guide",
+    "category": "devops",
+    "files": [
+      "SKILL.md",
+      "tls-issues.md",
+      "security-issues.md",
+      "upgrade-issues.md"
+    ]
+  },
+  "publisher": {
+    "login": "dev-user"
+  }
+}
