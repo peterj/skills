@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-25T18:41:50.079Z",
+  "model": "claude-opus-4-6",
+  "source": {
+    "url": "https://github.com/spiffe/spiffe.io",
+    "type": "github-hugo",
+    "github": {
+      "owner": "spiffe",
+      "repo": "spiffe.io",
+      "ref": "master",
+      "commitSha": "e784720da4feca412fef5054570bda7379b075b2"
+    }
+  },
+  "pages": [
+    {
+      "path": "content/docs/latest/deploying/configuring.md",
+      "title": "configuring",
+      "url": "https://github.com/spiffe/spiffe.io/blob/master/content/docs/latest/deploying/configuring.md"
+    },
+    {
+      "path": "content/docs/latest/deploying/install-agents.md",
+      "title": "install agents",
+      "url": "https://github.com/spiffe/spiffe.io/blob/master/content/docs/latest/deploying/install-agents.md"
+    },
+    {
+      "path": "content/docs/latest/deploying/install-server.md",
+      "title": "install server",
+      "url": "https://github.com/spiffe/spiffe.io/blob/master/content/docs/latest/deploying/install-server.md"
+    }
+  ],
+  "skill": {
+    "name": "spire",
+    "title": "SPIRE Deployment and Configuration",
+    "category": "security",
+    "files": [
+      "SKILL.md",
+      "references/kubernetes-deployment.md"
+    ]
+  },
+  "publisher": {
+    "login": "dev-user"
+  }
+}
