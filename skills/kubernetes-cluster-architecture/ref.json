@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-25T06:34:58.292Z",
+  "model": "claude-opus-4-6",
+  "source": {
+    "url": "https://github.com/kubernetes/website",
+    "type": "github-hugo",
+    "github": {
+      "owner": "kubernetes",
+      "repo": "website",
+      "ref": "main",
+      "commitSha": "b48dfe1f3637c6fdb9f0e307818ff601cba71517"
+    }
+  },
+  "pages": [
+    {
+      "path": "content/en/docs/concepts/_index.md",
+      "title": "concepts",
+      "url": "https://github.com/kubernetes/website/blob/main/content/en/docs/concepts/_index.md"
+    },
+    {
+      "path": "content/en/docs/concepts/architecture/_index.md",
+      "title": "architecture",
+      "url": "https://github.com/kubernetes/website/blob/main/content/en/docs/concepts/architecture/_index.md"
+    }
+  ],
+  "skill": {
+    "name": "kubernetes-cluster-architecture",
+    "title": "Kubernetes Cluster Architecture",
+    "category": "devops",
+    "files": [
+      "SKILL.md",
+      "architecture-variations.md"
+    ]
+  },
+  "publisher": {
+    "login": "dev-user"
+  }
+}
