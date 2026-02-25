@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-25T17:36:44.139Z",
+  "model": "claude-opus-4-6",
+  "source": {
+    "url": "https://github.com/argoproj/argo-cd",
+    "type": "github-repo",
+    "github": {
+      "owner": "argoproj",
+      "repo": "argo-cd",
+      "ref": "master",
+      "commitSha": "8c1a815b7832fdcdfff2f399439e2c158d9ae730"
+    }
+  },
+  "pages": [
+    {
+      "path": "docs/cli_installation.md",
+      "title": "cli installation",
+      "url": "https://github.com/argoproj/argo-cd/blob/master/docs/cli_installation.md"
+    },
+    {
+      "path": "docs/core_concepts.md",
+      "title": "core concepts",
+      "url": "https://github.com/argoproj/argo-cd/blob/master/docs/core_concepts.md"
+    }
+  ],
+  "skill": {
+    "name": "argocd-cli-setup",
+    "title": "Argo CD CLI Installation & Core Concepts",
+    "category": "devops",
+    "files": [
+      "SKILL.md",
+      "installation.md"
+    ]
+  },
+  "publisher": {
+    "login": "dev-user"
+  }
+}
