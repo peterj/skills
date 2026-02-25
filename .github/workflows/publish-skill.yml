@@ -14,7 +14,8 @@ jobs:
     steps:
       - name: Checkout merged code
         uses: actions/checkout@v4
-
+        with:
+          fetch-depth: 0
       - name: Detect and publish changed skills
         env:
           AGENTREGISTRY_URL: ${{ secrets.AGENTREGISTRY_URL }}
