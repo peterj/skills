@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-25T19:43:12.580Z",
+  "model": "claude-opus-4-6",
+  "source": {
+    "url": "https://github.com/istio/istio.io",
+    "type": "github-hugo",
+    "github": {
+      "owner": "istio",
+      "repo": "istio.io",
+      "ref": "master",
+      "commitSha": "a9a1cde354b20cfd6e15e3c9cf5cea0643207208"
+    }
+  },
+  "pages": [
+    {
+      "path": "content/en/docs/ambient/architecture/traffic-redirection/index.md",
+      "title": "traffic redirection",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ambient/architecture/traffic-redirection/index.md"
+    },
+    {
+      "path": "content/en/docs/ambient/getting-started/_index.md",
+      "title": "getting started",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ambient/getting-started/_index.md"
+    },
+    {
+      "path": "content/en/docs/ambient/getting-started/cleanup/index.md",
+      "title": "cleanup",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ambient/getting-started/cleanup/index.md"
+    },
+    {
+      "path": "content/en/docs/ambient/getting-started/deploy-sample-app/index.md",
+      "title": "deploy sample app",
+      "url": "https://github.com/istio/istio.io/blob/master/content/en/docs/ambient/getting-started/deploy-sample-app/index.md"
+    }
+  ],
+  "skill": {
+    "name": "istio-ambient-mode",
+    "title": "Istio Ambient Mode",
+    "category": "devops",
+    "files": [
+      "SKILL.md",
+      "references/traffic-redirection.md",
+      "scripts/debug-ambient.sh"
+    ]
+  },
+  "publisher": {
+    "login": "dev-user"
+  }
+}
